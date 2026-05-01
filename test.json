@@ -1,0 +1,98 @@
+{
+  "title": "Test World Map",
+
+  "map": {
+    "borderWidth": 0.5,
+    "borderColor": "#aaaaaa"
+  },
+
+  "interval": {
+    "from": 2020,
+    "to": 2025
+  },
+
+  "types": {
+    "1": { "role": "Country program", "color": "#27ae60" },
+    "2": { "role": "Digital project",  "color": "#2980b9" },
+    "3": { "role": "Partner project",  "color": "#e67e22" }
+  },
+
+  "countries": {
+    "UA": {
+      "name": "Ukraine",
+      "source": "ukraine.json",
+      "years": {
+        "2020": { "type": 1, "opacity": 98 },
+        "2021": { "type": 2, "opacity": 4 },
+        "2024": { "type": 3, "opacity": 100 }
+      }
+    },
+    "MA": {
+      "name": "Morocco",
+      "source": "custom",
+      "years": {
+        "2021": { "type": 2, "opacity": 15 },
+        "2022": { "type": 2, "opacity": 20 },
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+
+    "ET": { "name": "Ethiopia",                          "years": { "2025": { "type": 1, "opacity":40 } } },
+    "SD": { "name": "Sudan",                             "years": { "2025": { "type": 1, "opacity":40 } } },
+    "MZ": { "name": "Mozambique",                        "years": { "2025": { "type": 1, "opacity":40 } } },
+    "NP": { "name": "Nepal",                             "years": { "2025": { "type": 1, "opacity":40 } } },
+    "ID": { "name": "Indonesia",                         "years": { "2025": { "type": 1, "opacity":40 } } },
+    "GH": { "name": "Ghana",                             "years": { "2025": { "type": 1, "opacity":40 } } },
+    "ZW": { "name": "Zimbabwe",                          "years": { "2025": { "type": 1, "opacity":40 } } },
+    "MW": { "name": "Malawi",                            "years": { "2025": { "type": 1, "opacity":40 } } },
+    "NA": { "name": "Namibia",                           "years": { "2025": { "type": 1, "opacity":40 } } },
+
+    "NO": { "name": "Norway",                            "years": { 
+	"2020": { "type": 2, "opacity": 35 },
+	"2021": { "type": 2, "opacity": 45 } ,
+	"2022": { "type": 2, "opacity": 55 } ,
+	"2023": { "type": 2, "opacity": 65 } ,
+	"2024": { "type": 2, "opacity":40 } ,
+	"2025": { "type": 2, "opacity": 85 } 
+	
+	
+	} },
+
+    "UG": { "name": "Uganda",                            "years": { "2025": { "type": 3, "opacity":40 } } },
+    "KE": { "name": "Kenya",                             "years": { "2025": { "type": 3, "opacity":40 } } },
+    "ZM": { "name": "Zambia",                            "years": { "2025": { "type": 3, "opacity":40 } } },
+    "TZ": { "name": "United Republic of Tanzania",       "years": { "2025": { "type": 3, "opacity":40 } } },
+    "AL": { "name": "Albania",                           "years": { "2025": { "type": 3, "opacity":40 } } },
+    "TH": { "name": "Thailand",                         "years": { "2025": { "type": 3, "opacity":40 } } },
+    "PH": { "name": "Philippines",                      "years": { "2025": { "type": 3, "opacity":40 } } },
+    "SG": { "name": "Singapore",                         "years": { "2025": { "type": 3, "opacity":40 } } },
+    "BN": { "name": "Brunei Darussalam",                 "years": { "2025": { "type": 3, "opacity":40 } } },
+    "LA": { "name": "Lao People's Democratic Republic",  "years": { "2025": { "type": 3, "opacity":40 } } },
+    "VN": { "name": "Viet Nam",                          "years": { "2025": { "type": 3, "opacity":40 } } },
+    "MY": { "name": "Malaysia",                          "years": { "2025": { "type": 3, "opacity":40 } } },
+    "KH": { "name": "Cambodia",                         "years": { "2025": { "type": 3, "opacity":40 } } },
+    "SC": { "name": "Seychelles",                        "years": { "2025": { "type": 3, "opacity":40 } } },
+    "SZ": { "name": "eSwatini",                          "years": { "2025": { "type": 3, "opacity":40 } } },
+    "UY": { "name": "Uruguay",                           "years": { "2025": { "type": 3, "opacity":40 } } },
+    "CV": { "name": "Cabo Verde",                        "years": { "2025": { "type": 3, "opacity":40 } } },
+    "SN": { "name": "Senegal",                           "years": { "2025": { "type": 3, "opacity":40 } } },
+    "MU": { "name": "Mauritius",                         "years": { "2025": { "type": 3, "opacity":40 } } },
+    "MN": { "name": "Mongolia",                         "years": { "2025": { "type": 3, "opacity":40 } } },
+    "BW": { "name": "Botswana",                         "years": { "2025": { "type": 3, "opacity":40 } } },
+    "LS": { "name": "Lesotho",                           "years": { "2025": { "type": 3, "opacity":40 } } },
+    "SO": { "name": "Somalia",                          
+	"years":{
+		"2022": { "type": 3, "opacity": 15 },
+		"2023": { "type": 3, "opacity": 25 }, 
+		"2024": { "type": 3, "opacity": 45 },
+		"2025": { "type": 3, "opacity":40 } 
+	} 
+	},
+    "SS": { "name": "South Sudan",                       "years": { "2025": { "type": 3, "opacity":40 } } },
+    "ZA": { "name": "South Africa",                     "years": { "2025": { "type": 3, "opacity":40 } } },
+    "MG": { "name": "Madagascar",                        "years": { "2025": { "type": 3, "opacity":40 } } },
+    "CM": { "name": "Cameroon",                         "years": { "2025": { "type": 3, "opacity":40 } } },
+    "JM": { "name": "Jamaica",                           "years": { "2025": { "type": 3, "opacity":40 } } },
+    "JO": { "name": "Jordan",                            "years": { "2025": { "type": 3, "opacity":40 } } }
+  }
+}
