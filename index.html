@@ -1,2 +1,83 @@
-hello world
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Historic Map Explorer</title>
+
+<style>
+    body {
+        margin: 0;
+        font-family: "Segoe UI", Arial, sans-serif;
+        background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 3rem;
+        margin-bottom: 10px;
+        letter-spacing: 1px;
+    }
+
+    p {
+        font-size: 1.2rem;
+        max-width: 600px;
+        opacity: 0.9;
+        margin-bottom: 40px;
+    }
+
+    .btn {
+        padding: 15px 35px;
+        font-size: 1.3rem;
+        font-weight: bold;
+        color: #fff;
+        background: #ff7e5f;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: 0.25s ease;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    .btn:hover {
+        background: #feb47b;
+        transform: translateY(-3px);
+        box-shadow: 0 6px 18px rgba(0,0,0,0.35);
+    }
+
+    footer {
+        position: absolute;
+        bottom: 20px;
+        font-size: 0.9rem;
+        opacity: 0.6;
+    }
+</style>
+</head>
+
+<body>
+
+    <h1>Welcome to the Historic Map Explorer</h1>
+    <p>
+        Step into the past and explore a dynamic, interactive world map powered by your custom configuration.  
+        Click the button below to launch the map and begin your journey.
+    </p>
+
+    <button class="btn" onclick="openMap()">Launch Historic Map</button>
+
+    <footer>Created by Erik — Powered by World Map Engine</footer>
+
+<script>
+function openMap() {
+    window.location.href = "https://www.eriksberg.no/Maps/World/?config=https://raw.githubusercontent.com/eriksoeb/test/main/test.json";
+}
+</script>
+
+</body>
+</html>
 
