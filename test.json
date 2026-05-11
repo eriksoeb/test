@@ -31,7 +31,7 @@
   "types": {
     "1": { "role": "Country program", "color": "#27ae60" },
     "2": { "role": "Thematic projects",  "color": "#e67e22" },
-    "3": { "role": "Organizer",  "color":  "#2980b9"  }
+    "3": { "role": "Organizer",  "color":  "yellow"  }
   },
 
   "countries": {
