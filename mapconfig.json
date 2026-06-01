@@ -1,0 +1,407 @@
+{
+  "title": "International Development World Map",
+  "subtitle": "Country presence 1992–2025",
+  "titleFontSize": 22,
+  "subtitleFontSize": 20,
+
+  "map": {
+    "borderWidth": 0.5,
+    "borderColor": "#aaaaaa"
+  },
+
+  "zoom": {
+    "center": [38, 19],
+    "default": 2.2,
+    "min": 2,
+    "max": 5
+  },
+
+  "interval": {
+    "from": 1990,
+    "to": 2025
+  },
+
+  "opacity": {
+    "name": "Complete",
+    "suffix": "%"
+  },
+
+
+  "types": {
+    "1": { "role": "Country program", "color": "#27ae60" },
+    "2": { "role": "Thematic projects",  "color": "#e67e22" },
+    "3": { "role": "Organizer",  "color":  "yellow"  }
+  },
+
+  "countries": {
+    "UA": {
+      "name": "Ukraine",
+      "source": "ukraine.json",
+      "years": {
+        "2016": { "type": 1, "opacity": 44 },
+        "2026": { "type": 1, "opacity": 44 }
+      }
+    },
+
+
+
+    "MA": {
+      "name": "Marokko",
+      "source": "custom",
+      "years": {
+        "2021": { "type": 2, "opacity": 15 },
+        "2022": { "type": 2, "opacity": 20 },
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+
+    "ET": { "name": "Ethiopia",
+      "years": {
+        "1995": { "type": 1, "opacity": 44 },
+        "1996": { "type": 1, "opacity": 44 },
+        "2017": { "type": 1, "opacity": 44 },
+        "2026": { "type": 1, "opacity": 44 }
+      }
+    },
+    "SD": { "name": "Sudan",
+      "years": {
+        "2007": { "type": 1, "opacity": 44 },
+        "2023": { "type": 1, "opacity": 44 }
+      }
+    },
+    "MZ": { "name": "Mozambique",
+      "years": {
+        "1993": { "type": 1, "opacity": 44 },
+        "1994": { "type": 1, "opacity": 44 },
+        "1997": { "type": 1, "opacity": 44 },
+        "2023": { "type": 1, "opacity": 44 }
+      }
+    },
+    "NP": { "name": "Nepal",
+      "years": {
+        "2020": { "type": 1, "opacity": 44 },
+        "2025": { "type": 1, "opacity": 44 }
+      }
+    },
+    "ID": { "name": "Indonesia",
+      "years": {
+        "2023": { "type": 1, "opacity": 44 },
+        "2026": { "type": 1, "opacity": 44 }
+      }
+    },
+    "GH": { "name": "Ghana",
+      "years": {
+        "2016": { "type": 1, "opacity": 44 },
+        "2026": { "type": 1, "opacity": 44 }
+      }
+    },
+    "ZW": { "name": "Zimbabwe",
+      "years": {
+        "1997": { "type": 1, "opacity": 44 },
+        "1998": { "type": 1, "opacity": 44 }
+      }
+    },
+    "MW": { "name": "Malawi",
+      "years": {
+        "1993": { "type": 1, "opacity": 44 },
+        "2014": { "type": 1, "opacity": 44 },
+        "2024": { "type": 1, "opacity": 44 },
+        "2026": { "type": 1, "opacity": 44 }
+      }
+    },
+    "NA": { "name": "Namibia",
+      "years": {
+        "2024": { "type": 1, "opacity": 44 },
+        "2026": { "type": 1, "opacity": 44 }
+      }
+    },
+    "NO": { "name": "Norway",
+	"url" : "https://www.ssb.no/en/omssb/ssbs-virksomhet/statistikk-som-bistand",
+      "years": {
+	    "1992": { "type": 3, "opacity": 35 },
+        "1993": { "type": 3, "opacity": 35 },
+        "1994": { "type": 3, "opacity": 45 },
+        "1995": { "type": 3, "opacity": 35 },
+		"1996": { "type": 3, "opacity": 35 },
+        "1997": { "type": 3, "opacity": 45 },
+        "1998": { "type": 3, "opacity": 55 },
+        "1999": { "type": 3, "opacity": 35 },
+        "2000": { "type": 3, "opacity": 40 },
+		"2001": { "type": 3, "opacity": 35 },
+		"2002": { "type": 3, "opacity": 50 },
+		"2003": { "type": 3, "opacity": 30 },
+		"2004": { "type": 3, "opacity": 30 },
+		"2005": { "type": 3, "opacity": 40 },
+		"2006": { "type": 3, "opacity": 30 },
+		"2007": { "type": 3, "opacity": 30 },
+		"2008": { "type": 3, "opacity": 40 },
+		"2009": { "type": 3, "opacity": 30 },
+		"2010": { "type": 3, "opacity": 40 },
+		"2011": { "type": 3, "opacity": 15 },
+		"2012": { "type": 3, "opacity": 40 },
+		"2013": { "type": 3, "opacity": 30 },
+		"2014": { "type": 3, "opacity": 30 },
+		"2015": { "type": 3, "opacity": 44 },
+		"2016": { "type": 3, "opacity": 30 },
+		"2017": { "type": 3, "opacity": 30 },
+		"2018": { "type": 3, "opacity": 40 },
+		"2019": { "type": 3, "opacity": 30 },
+        "2020": { "type": 3, "opacity": 35 },
+        "2021": { "type": 3, "opacity": 45 },
+        "2022": { "type": 3, "opacity": 55 },
+        "2023": { "type": 3, "opacity": 65 },
+        "2024": { "type": 3, "opacity": 40 },
+        "2025": { "type": 3, "opacity": 50 }
+      }
+    },
+
+    "UG": { "name": "Uganda",
+      "years": {
+        "1994": { "type": 1, "opacity": 44 },
+        "1995": { "type": 1, "opacity": 44 },
+        "2000": { "type": 1, "opacity": 44 },
+        "2009": { "type": 1, "opacity": 44 },
+        "2015": { "type": 1, "opacity": 44 },
+        "2022": { "type": 1, "opacity": 44 }
+      }
+    },
+    "KE": { "name": "Kenya",
+      "years": {
+        "2016": { "type": 1, "opacity": 44 },
+        "2021": { "type": 1, "opacity": 44 }
+      }
+    },
+    "ZM": { "name": "Zambia",
+      "years": {
+        "1992": { "type": 1, "opacity": 44 },
+        "1994": { "type": 1, "opacity": 44 },
+        "2009": { "type": 1, "opacity": 44 },
+        "2017": { "type": 1, "opacity": 44 }
+      }
+    },
+    "TZ": { "name": "United Republic of Tanzania",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "AL": { "name": "Albania",
+      "years": {
+        "2001": { "type": 1, "opacity": 44 },
+        "2011": { "type": 1, "opacity": 44 }
+      }
+    },
+    "TH": { "name": "Thailand",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "PH": { "name": "Philippines",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "SG": { "name": "Singapore",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "BN": { "name": "Brunei Darussalam",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "LA": { "name": "Lao People's Democratic Republic",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "VN": { "name": "Vietnam",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "MY": { "name": "Malaysia",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "KH": { "name": "Cambodia",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "SC": { "name": "Seychelles",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "SZ": { "name": "eSwatini",
+      "years": {
+        "2025": { "type": 1, "opacity": 40 }
+      }
+    },
+    "UY": { "name": "Uruguay",
+      "years": {
+        "2021": { "type": 1, "opacity": 44 }
+      }
+    },
+    "CV": { "name": "Cabo Verde",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "SN": { "name": "Senegal",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "MU": { "name": "Mauritius",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "MN": { "name": "Mongolia",
+      "years": {
+        "2015": { "type": 1, "opacity": 44 }
+      }
+    },
+    "BW": { "name": "Botswana",
+      "years": {
+        "1996": { "type": 1, "opacity": 44 },
+        "2003": { "type": 1, "opacity": 44 }
+      }
+    },
+    "LS": { "name": "Lesotho",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "SO": { "name": "Somalia",
+      "years": {
+        "2013": { "type": 1, "opacity": 44 },
+        "2019": { "type": 1, "opacity": 44 }
+      }
+    },
+    "SS": { "name": "South Sudan",
+      "years": {
+        "2005": { "type": 1, "opacity": 44 },
+        "2017": { "type": 1, "opacity": 44 }
+      }
+    },
+    "ZA": { "name": "South Africa",
+      "years": {
+        "1996": { "type": 1, "opacity": 44 },
+        "2001": { "type": 1, "opacity": 44 }
+      }
+    },
+    "MG": { "name": "Madagascar",
+      "years": {
+        "2025": { "type": 2, "opacity": 90 }
+      }
+    },
+    "CM": { "name": "Cameroon",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "JM": { "name": "Jamaica",
+      "years": {
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+    "JO": { "name": "Jordan",
+      "years": {
+		"2023": { "type": 2, "opacity": 40 },
+		"2024": { "type": 2, "opacity": 40 },
+        "2025": { "type": 2, "opacity": 40 }
+      }
+    },
+
+    "ER": { "name": "Eritrea",
+      "years": {
+        "1994": { "type": 1, "opacity": 44 },
+        "2001": { "type": 1, "opacity": 44 },
+        "2004": { "type": 1, "opacity": 44 },
+        "2009": { "type": 1, "opacity": 44 }
+      }
+    },
+    "PS": { "name": "Palestine",
+      "years": {
+        "1994": { "type": 1, "opacity": 44 },
+        "2003": { "type": 1, "opacity": 44 }
+      }
+    },
+    "EE": { "name": "Estonia",
+      "years": {
+        "1995": { "type": 1, "opacity": 44 }
+      }
+    },
+    "LV": { "name": "Latvia",
+      "years": {
+        "1995": { "type": 1, "opacity": 44 }
+      }
+    },
+    "LT": { "name": "Lithuania",
+      "years": {
+        "1996": { "type": 1, "opacity": 44 },
+        "1998": { "type": 1, "opacity": 44 }
+      }
+    },
+    "AO": { "name": "Angola",
+      "years": {
+        "1997": { "type": 1, "opacity": 44 },
+        "2008": { "type": 1, "opacity": 44 }
+      }
+    },
+    "CN": { "name": "China",
+      "years": {
+        "1997": { "type": 1, "opacity": 44 },
+        "2001": { "type": 1, "opacity": 44 }
+      }
+    },
+    "MD": { "name": "Republic of Moldova",
+      "years": {
+        "2004": { "type": 1, "opacity": 44 },
+        "2014": { "type": 1, "opacity": 44 }
+      }
+    },
+    "NI": { "name": "Nicaragua",
+      "years": {
+        "2004": { "type": 1, "opacity": 44 },
+        "2005": { "type": 1, "opacity": 44 }
+      }
+    },
+    "KZ": { "name": "Kazakhstan",
+      "years": {
+        "2005": { "type": 1, "opacity": 44 },
+        "2013": { "type": 1, "opacity": 44 }
+      }
+    },
+    "KG": { "name": "Kyrgyzstan",
+      "years": {
+        "2005": { "type": 1, "opacity": 44 },
+        "2022": { "type": 1, "opacity": 44 }
+      }
+    },
+    "TJ": { "name": "Tajikistan",
+      "years": {
+        "2012": { "type": 1, "opacity": 44 }
+      }
+    },
+    "BO": { "name": "Bolivia (Plurinational State of)",
+      "years": {
+        "2013": { "type": 1, "opacity": 44 }
+      }
+    },
+    "CU": { "name": "Cuba",
+      "years": {
+        "2019": { "type": 1, "opacity": 44 }
+      }
+    },
+    "BJ": { "name": "Benin",
+      "years": {
+        "2019": { "type": 1, "opacity": 44 }
+      }
+    }
+  }
+}
