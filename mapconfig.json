@@ -1,8 +1,8 @@
 {
   "title": "International Development World Map",
   "subtitle": "Country presence 1992–2025",
-  "titleFontSize": 22,
-  "subtitleFontSize": 20,
+  "titleFontSize": 0,
+  "subtitleFontSize": 0,
 
   "map": {
     "borderWidth": 0.5,
@@ -21,10 +21,37 @@
     "to": 2025
   },
 
+"freq" : {
+ "name": "Year"
+},
+
+"current_period_title": {
+  "show": true,
+  "prefix": "",
+  "suffix": "",
+  "fontSize": 250,
+  "color": "#aaaaaa",
+  "opacity": 44,
+  "font": "Helvetica",
+  "position": "top"
+},
+  
+
+
+
   "opacity": {
-    "name": "Complete",
+    "name": "Complete - not in use currently",
     "suffix": "%"
   },
+
+ "url": {
+    "name": "NSO link"
+  },
+
+ "url2": {
+    "name": "Extra link when available"
+  },
+
 
 
   "types": {
@@ -35,6 +62,9 @@
 
   "countries": {
     "UA": {
+	  "url":"https://stat.gov.ua/en",
+	  "url2":"https://www.lv.ukrstat.gov.ua/eng/menu_site.php",
+	  "comment":"War with Russia\nfrom 2023 and still counting..",
       "name": "Ukraine",
       "source": "ukraine.json",
       "years": {
@@ -211,6 +241,7 @@
     },
     "NO": { "name": "Norway",
 	"url" : "https://www.ssb.no/en/omssb/ssbs-virksomhet/statistikk-som-bistand",
+	"url2" : "https://www.ssb.no/en/omssb/ssbs-virksomhet/statistikk-som-bistand",
       "years": {
 	    "1992": { "type": 3, "opacity": 35 },
         "1993": { "type": 3, "opacity": 35 },
