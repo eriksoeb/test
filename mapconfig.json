@@ -39,6 +39,15 @@
       "source": "ukraine.json",
       "years": {
         "2016": { "type": 1, "opacity": 44 },
+        "2017": { "type": 1, "opacity": 33 },
+        "2018": { "type": 1, "opacity": 33 },
+        "2019": { "type": 1, "opacity": 33 },
+        "2020": { "type": 1, "opacity": 33 },
+        "2021": { "type": 1, "opacity": 33 },
+        "2022": { "type": 1, "opacity": 33 },
+        "2023": { "type": 1, "opacity": 33 },
+        "2024": { "type": 1, "opacity": 33 },
+        "2025": { "type": 1, "opacity": 33 },
         "2026": { "type": 1, "opacity": 44 }
       }
     },
@@ -60,12 +69,35 @@
         "1995": { "type": 1, "opacity": 44 },
         "1996": { "type": 1, "opacity": 44 },
         "2017": { "type": 1, "opacity": 44 },
+        "2018": { "type": 1, "opacity": 33 },
+        "2019": { "type": 1, "opacity": 33 },
+        "2020": { "type": 1, "opacity": 33 },
+        "2021": { "type": 1, "opacity": 33 },
+        "2022": { "type": 1, "opacity": 33 },
+        "2023": { "type": 1, "opacity": 33 },
+        "2024": { "type": 1, "opacity": 33 },
+        "2025": { "type": 1, "opacity": 33 },
         "2026": { "type": 1, "opacity": 44 }
       }
     },
     "SD": { "name": "Sudan",
       "years": {
         "2007": { "type": 1, "opacity": 44 },
+        "2008": { "type": 1, "opacity": 33 },
+        "2009": { "type": 1, "opacity": 33 },
+        "2010": { "type": 1, "opacity": 33 },
+        "2011": { "type": 1, "opacity": 33 },
+        "2012": { "type": 1, "opacity": 33 },
+        "2013": { "type": 1, "opacity": 33 },
+        "2014": { "type": 1, "opacity": 33 },
+        "2015": { "type": 1, "opacity": 33 },
+        "2016": { "type": 1, "opacity": 33 },
+        "2017": { "type": 1, "opacity": 33 },
+        "2018": { "type": 1, "opacity": 33 },
+        "2019": { "type": 1, "opacity": 33 },
+        "2020": { "type": 1, "opacity": 33 },
+        "2021": { "type": 1, "opacity": 33 },
+        "2022": { "type": 1, "opacity": 33 },
         "2023": { "type": 1, "opacity": 44 }
       }
     },
@@ -74,24 +106,64 @@
         "1993": { "type": 1, "opacity": 44 },
         "1994": { "type": 1, "opacity": 44 },
         "1997": { "type": 1, "opacity": 44 },
+        "1998": { "type": 1, "opacity": 33 },
+        "1999": { "type": 1, "opacity": 33 },
+        "2000": { "type": 1, "opacity": 33 },
+        "2001": { "type": 1, "opacity": 33 },
+        "2002": { "type": 1, "opacity": 33 },
+        "2003": { "type": 1, "opacity": 33 },
+        "2004": { "type": 1, "opacity": 33 },
+        "2005": { "type": 1, "opacity": 33 },
+        "2006": { "type": 1, "opacity": 33 },
+        "2007": { "type": 1, "opacity": 33 },
+        "2008": { "type": 1, "opacity": 33 },
+        "2009": { "type": 1, "opacity": 33 },
+        "2010": { "type": 1, "opacity": 33 },
+        "2011": { "type": 1, "opacity": 33 },
+        "2012": { "type": 1, "opacity": 33 },
+        "2013": { "type": 1, "opacity": 33 },
+        "2014": { "type": 1, "opacity": 33 },
+        "2015": { "type": 1, "opacity": 33 },
+        "2016": { "type": 1, "opacity": 33 },
+        "2017": { "type": 1, "opacity": 33 },
+        "2018": { "type": 1, "opacity": 33 },
+        "2019": { "type": 1, "opacity": 33 },
+        "2020": { "type": 1, "opacity": 33 },
+        "2021": { "type": 1, "opacity": 33 },
+        "2022": { "type": 1, "opacity": 33 },
         "2023": { "type": 1, "opacity": 44 }
       }
     },
     "NP": { "name": "Nepal",
       "years": {
         "2020": { "type": 1, "opacity": 44 },
+        "2021": { "type": 1, "opacity": 33 },
+        "2022": { "type": 1, "opacity": 33 },
+        "2023": { "type": 1, "opacity": 33 },
+        "2024": { "type": 1, "opacity": 33 },
         "2025": { "type": 1, "opacity": 44 }
       }
     },
     "ID": { "name": "Indonesia",
       "years": {
         "2023": { "type": 1, "opacity": 44 },
+        "2024": { "type": 1, "opacity": 33 },
+        "2025": { "type": 1, "opacity": 33 },
         "2026": { "type": 1, "opacity": 44 }
       }
     },
     "GH": { "name": "Ghana",
       "years": {
         "2016": { "type": 1, "opacity": 44 },
+        "2017": { "type": 1, "opacity": 33 },
+        "2018": { "type": 1, "opacity": 33 },
+        "2019": { "type": 1, "opacity": 33 },
+        "2020": { "type": 1, "opacity": 33 },
+        "2021": { "type": 1, "opacity": 33 },
+        "2022": { "type": 1, "opacity": 33 },
+        "2023": { "type": 1, "opacity": 33 },
+        "2024": { "type": 1, "opacity": 33 },
+        "2025": { "type": 1, "opacity": 33 },
         "2026": { "type": 1, "opacity": 44 }
       }
     },
@@ -104,14 +176,36 @@
     "MW": { "name": "Malawi",
       "years": {
         "1993": { "type": 1, "opacity": 44 },
+        "1994": { "type": 1, "opacity": 33 },
+        "1995": { "type": 1, "opacity": 33 },
+        "1996": { "type": 1, "opacity": 33 },
+        "1997": { "type": 1, "opacity": 33 },
+        "1998": { "type": 1, "opacity": 33 },
+        "1999": { "type": 1, "opacity": 33 },
+        "2000": { "type": 1, "opacity": 33 },
+        "2001": { "type": 1, "opacity": 33 },
+        "2002": { "type": 1, "opacity": 33 },
+        "2003": { "type": 1, "opacity": 33 },
+        "2004": { "type": 1, "opacity": 33 },
+        "2005": { "type": 1, "opacity": 33 },
+        "2006": { "type": 1, "opacity": 33 },
+        "2007": { "type": 1, "opacity": 33 },
+        "2008": { "type": 1, "opacity": 33 },
+        "2009": { "type": 1, "opacity": 33 },
+        "2010": { "type": 1, "opacity": 33 },
+        "2011": { "type": 1, "opacity": 33 },
+        "2012": { "type": 1, "opacity": 33 },
+        "2013": { "type": 1, "opacity": 33 },
         "2014": { "type": 1, "opacity": 44 },
         "2024": { "type": 1, "opacity": 44 },
+        "2025": { "type": 1, "opacity": 33 },
         "2026": { "type": 1, "opacity": 44 }
       }
     },
     "NA": { "name": "Namibia",
       "years": {
         "2024": { "type": 1, "opacity": 44 },
+        "2025": { "type": 1, "opacity": 33 },
         "2026": { "type": 1, "opacity": 44 }
       }
     },
@@ -160,22 +254,48 @@
         "1994": { "type": 1, "opacity": 44 },
         "1995": { "type": 1, "opacity": 44 },
         "2000": { "type": 1, "opacity": 44 },
+        "2001": { "type": 1, "opacity": 33 },
+        "2002": { "type": 1, "opacity": 33 },
+        "2003": { "type": 1, "opacity": 33 },
+        "2004": { "type": 1, "opacity": 33 },
+        "2005": { "type": 1, "opacity": 33 },
+        "2006": { "type": 1, "opacity": 33 },
+        "2007": { "type": 1, "opacity": 33 },
+        "2008": { "type": 1, "opacity": 33 },
         "2009": { "type": 1, "opacity": 44 },
         "2015": { "type": 1, "opacity": 44 },
+        "2016": { "type": 1, "opacity": 33 },
+        "2017": { "type": 1, "opacity": 33 },
+        "2018": { "type": 1, "opacity": 33 },
+        "2019": { "type": 1, "opacity": 33 },
+        "2020": { "type": 1, "opacity": 33 },
+        "2021": { "type": 1, "opacity": 33 },
         "2022": { "type": 1, "opacity": 44 }
       }
     },
     "KE": { "name": "Kenya",
       "years": {
         "2016": { "type": 1, "opacity": 44 },
+        "2017": { "type": 1, "opacity": 33 },
+        "2018": { "type": 1, "opacity": 33 },
+        "2019": { "type": 1, "opacity": 33 },
+        "2020": { "type": 1, "opacity": 33 },
         "2021": { "type": 1, "opacity": 44 }
       }
     },
     "ZM": { "name": "Zambia",
       "years": {
         "1992": { "type": 1, "opacity": 44 },
+        "1993": { "type": 1, "opacity": 33 },
         "1994": { "type": 1, "opacity": 44 },
         "2009": { "type": 1, "opacity": 44 },
+        "2010": { "type": 1, "opacity": 33 },
+        "2011": { "type": 1, "opacity": 33 },
+        "2012": { "type": 1, "opacity": 33 },
+        "2013": { "type": 1, "opacity": 33 },
+        "2014": { "type": 1, "opacity": 33 },
+        "2015": { "type": 1, "opacity": 33 },
+        "2016": { "type": 1, "opacity": 33 },
         "2017": { "type": 1, "opacity": 44 }
       }
     },
@@ -187,6 +307,15 @@
     "AL": { "name": "Albania",
       "years": {
         "2001": { "type": 1, "opacity": 44 },
+        "2002": { "type": 1, "opacity": 33 },
+        "2003": { "type": 1, "opacity": 33 },
+        "2004": { "type": 1, "opacity": 33 },
+        "2005": { "type": 1, "opacity": 33 },
+        "2006": { "type": 1, "opacity": 33 },
+        "2007": { "type": 1, "opacity": 33 },
+        "2008": { "type": 1, "opacity": 33 },
+        "2009": { "type": 1, "opacity": 33 },
+        "2010": { "type": 1, "opacity": 33 },
         "2011": { "type": 1, "opacity": 44 }
       }
     },
@@ -268,6 +397,12 @@
     "BW": { "name": "Botswana",
       "years": {
         "1996": { "type": 1, "opacity": 44 },
+        "1997": { "type": 1, "opacity": 33 },
+        "1998": { "type": 1, "opacity": 33 },
+        "1999": { "type": 1, "opacity": 33 },
+        "2000": { "type": 1, "opacity": 33 },
+        "2001": { "type": 1, "opacity": 33 },
+        "2002": { "type": 1, "opacity": 33 },
         "2003": { "type": 1, "opacity": 44 }
       }
     },
@@ -279,18 +414,38 @@
     "SO": { "name": "Somalia",
       "years": {
         "2013": { "type": 1, "opacity": 44 },
+        "2014": { "type": 1, "opacity": 33 },
+        "2015": { "type": 1, "opacity": 33 },
+        "2016": { "type": 1, "opacity": 33 },
+        "2017": { "type": 1, "opacity": 33 },
+        "2018": { "type": 1, "opacity": 33 },
         "2019": { "type": 1, "opacity": 44 }
       }
     },
     "SS": { "name": "South Sudan",
       "years": {
         "2005": { "type": 1, "opacity": 44 },
+        "2006": { "type": 1, "opacity": 33 },
+        "2007": { "type": 1, "opacity": 33 },
+        "2008": { "type": 1, "opacity": 33 },
+        "2009": { "type": 1, "opacity": 33 },
+        "2010": { "type": 1, "opacity": 33 },
+        "2011": { "type": 1, "opacity": 33 },
+        "2012": { "type": 1, "opacity": 33 },
+        "2013": { "type": 1, "opacity": 33 },
+        "2014": { "type": 1, "opacity": 33 },
+        "2015": { "type": 1, "opacity": 33 },
+        "2016": { "type": 1, "opacity": 33 },
         "2017": { "type": 1, "opacity": 44 }
       }
     },
     "ZA": { "name": "South Africa",
       "years": {
         "1996": { "type": 1, "opacity": 44 },
+        "1997": { "type": 1, "opacity": 33 },
+        "1998": { "type": 1, "opacity": 33 },
+        "1999": { "type": 1, "opacity": 33 },
+        "2000": { "type": 1, "opacity": 33 },
         "2001": { "type": 1, "opacity": 44 }
       }
     },
@@ -320,14 +475,32 @@
     "ER": { "name": "Eritrea",
       "years": {
         "1994": { "type": 1, "opacity": 44 },
+        "1995": { "type": 1, "opacity": 33 },
+        "1996": { "type": 1, "opacity": 33 },
+        "1997": { "type": 1, "opacity": 33 },
+        "1998": { "type": 1, "opacity": 33 },
+        "1999": { "type": 1, "opacity": 33 },
+        "2000": { "type": 1, "opacity": 33 },
         "2001": { "type": 1, "opacity": 44 },
         "2004": { "type": 1, "opacity": 44 },
+        "2005": { "type": 1, "opacity": 33 },
+        "2006": { "type": 1, "opacity": 33 },
+        "2007": { "type": 1, "opacity": 33 },
+        "2008": { "type": 1, "opacity": 33 },
         "2009": { "type": 1, "opacity": 44 }
       }
     },
     "PS": { "name": "Palestine",
       "years": {
         "1994": { "type": 1, "opacity": 44 },
+        "1995": { "type": 1, "opacity": 33 },
+        "1996": { "type": 1, "opacity": 33 },
+        "1997": { "type": 1, "opacity": 33 },
+        "1998": { "type": 1, "opacity": 33 },
+        "1999": { "type": 1, "opacity": 33 },
+        "2000": { "type": 1, "opacity": 33 },
+        "2001": { "type": 1, "opacity": 33 },
+        "2002": { "type": 1, "opacity": 33 },
         "2003": { "type": 1, "opacity": 44 }
       }
     },
@@ -344,24 +517,47 @@
     "LT": { "name": "Lithuania",
       "years": {
         "1996": { "type": 1, "opacity": 44 },
+        "1997": { "type": 1, "opacity": 33 },
         "1998": { "type": 1, "opacity": 44 }
       }
     },
     "AO": { "name": "Angola",
       "years": {
         "1997": { "type": 1, "opacity": 44 },
+        "1998": { "type": 1, "opacity": 33 },
+        "1999": { "type": 1, "opacity": 33 },
+        "2000": { "type": 1, "opacity": 33 },
+        "2001": { "type": 1, "opacity": 33 },
+        "2002": { "type": 1, "opacity": 33 },
+        "2003": { "type": 1, "opacity": 33 },
+        "2004": { "type": 1, "opacity": 33 },
+        "2005": { "type": 1, "opacity": 33 },
+        "2006": { "type": 1, "opacity": 33 },
+        "2007": { "type": 1, "opacity": 33 },
         "2008": { "type": 1, "opacity": 44 }
       }
     },
     "CN": { "name": "China",
       "years": {
         "1997": { "type": 1, "opacity": 44 },
+        "1998": { "type": 1, "opacity": 33 },
+        "1999": { "type": 1, "opacity": 33 },
+        "2000": { "type": 1, "opacity": 33 },
         "2001": { "type": 1, "opacity": 44 }
       }
     },
     "MD": { "name": "Republic of Moldova",
       "years": {
         "2004": { "type": 1, "opacity": 44 },
+        "2005": { "type": 1, "opacity": 33 },
+        "2006": { "type": 1, "opacity": 33 },
+        "2007": { "type": 1, "opacity": 33 },
+        "2008": { "type": 1, "opacity": 33 },
+        "2009": { "type": 1, "opacity": 33 },
+        "2010": { "type": 1, "opacity": 33 },
+        "2011": { "type": 1, "opacity": 33 },
+        "2012": { "type": 1, "opacity": 33 },
+        "2013": { "type": 1, "opacity": 33 },
         "2014": { "type": 1, "opacity": 44 }
       }
     },
@@ -374,12 +570,35 @@
     "KZ": { "name": "Kazakhstan",
       "years": {
         "2005": { "type": 1, "opacity": 44 },
+        "2006": { "type": 1, "opacity": 33 },
+        "2007": { "type": 1, "opacity": 33 },
+        "2008": { "type": 1, "opacity": 33 },
+        "2009": { "type": 1, "opacity": 33 },
+        "2010": { "type": 1, "opacity": 33 },
+        "2011": { "type": 1, "opacity": 33 },
+        "2012": { "type": 1, "opacity": 33 },
         "2013": { "type": 1, "opacity": 44 }
       }
     },
     "KG": { "name": "Kyrgyzstan",
       "years": {
         "2005": { "type": 1, "opacity": 44 },
+        "2006": { "type": 1, "opacity": 33 },
+        "2007": { "type": 1, "opacity": 33 },
+        "2008": { "type": 1, "opacity": 33 },
+        "2009": { "type": 1, "opacity": 33 },
+        "2010": { "type": 1, "opacity": 33 },
+        "2011": { "type": 1, "opacity": 33 },
+        "2012": { "type": 1, "opacity": 33 },
+        "2013": { "type": 1, "opacity": 33 },
+        "2014": { "type": 1, "opacity": 33 },
+        "2015": { "type": 1, "opacity": 33 },
+        "2016": { "type": 1, "opacity": 33 },
+        "2017": { "type": 1, "opacity": 33 },
+        "2018": { "type": 1, "opacity": 33 },
+        "2019": { "type": 1, "opacity": 33 },
+        "2020": { "type": 1, "opacity": 33 },
+        "2021": { "type": 1, "opacity": 33 },
         "2022": { "type": 1, "opacity": 44 }
       }
     },
