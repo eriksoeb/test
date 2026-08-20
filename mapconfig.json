@@ -1,8 +1,8 @@
 {
-  "title": "International Development World Map",
-  "subtitle": "Country presence 1992–2025",
+  "title": "@216 International Development World Map",
+  "subtitle": "@216 Country presence 1992–2026",
   "titleFontSize": 0,
-  "subtitleFontSize": 0,
+  "subtitleFontSize": 26,
 
   "map": {
     "borderWidth": 0.5,
@@ -18,7 +18,7 @@
 
   "interval": {
     "from": 1990,
-    "to": 2025
+    "to": 2026
   },
 
 "freq" : {
@@ -49,7 +49,7 @@
   },
 
  "url2": {
-    "name": "Extra link when available"
+    "name": "Extra link"
   },
 
 
@@ -88,9 +88,10 @@
       "name": "Marokko",
       "source": "custom",
       "years": {
-        "2021": { "type": 2, "opacity": 15 },
-        "2022": { "type": 2, "opacity": 20 },
-        "2025": { "type": 2, "opacity": 40 }
+        "2023": { "type": 2, "opacity": 30 },
+        "2024": { "type": 2, "opacity": 20 },		
+        "2025": { "type": 2, "opacity": 40 },
+        "2026": { "type": 2, "opacity": 40 }
       }
     },
 
@@ -242,6 +243,7 @@
     "NO": { "name": "Norway",
 	"url" : "https://www.ssb.no/en/omssb/ssbs-virksomhet/statistikk-som-bistand",
 	"url2" : "https://www.ssb.no/en/omssb/ssbs-virksomhet/statistikk-som-bistand",
+	 "commentedout_picture":"https://www.eriksberg.no/images/eriksberg.png",
       "years": {
 	    "1992": { "type": 3, "opacity": 35 },
         "1993": { "type": 3, "opacity": 35 },
@@ -276,7 +278,8 @@
         "2022": { "type": 3, "opacity": 55 },
         "2023": { "type": 3, "opacity": 65 },
         "2024": { "type": 3, "opacity": 40 },
-        "2025": { "type": 3, "opacity": 50 }
+        "2025": { "type": 3, "opacity": 50 },
+        "2026": { "type": 3, "opacity": 50 }
       }
     },
 
@@ -301,7 +304,9 @@
         "2019": { "type": 1, "opacity": 33 },
         "2020": { "type": 1, "opacity": 33 },
         "2021": { "type": 1, "opacity": 33 },
-        "2022": { "type": 1, "opacity": 44 }
+        "2022": { "type": 1, "opacity": 44 },
+		"2023": { "type": 1, "opacity": 33 },
+        "2024": { "type": 1, "opacity": 44 }
       }
     },
     "KE": { "name": "Kenya",
@@ -311,7 +316,8 @@
         "2018": { "type": 1, "opacity": 33 },
         "2019": { "type": 1, "opacity": 33 },
         "2020": { "type": 1, "opacity": 33 },
-        "2021": { "type": 1, "opacity": 44 }
+        "2021": { "type": 1, "opacity": 44 },
+		"2025": { "type": 2, "opacity": 44 }
       }
     },
     "ZM": { "name": "Zambia",
@@ -332,7 +338,8 @@
     },
     "TZ": { "name": "United Republic of Tanzania",
       "years": {
-        "2025": { "type": 2, "opacity": 40 }
+        "2025": { "type": 2, "opacity": 40 },
+        "2026": { "type": 2, "opacity": 40 }
       }
     },
     "AL": { "name": "Albania",
@@ -347,27 +354,21 @@
         "2008": { "type": 1, "opacity": 33 },
         "2009": { "type": 1, "opacity": 33 },
         "2010": { "type": 1, "opacity": 33 },
-        "2011": { "type": 1, "opacity": 44 }
-      }
-    },
-    "TH": { "name": "Thailand",
-      "years": {
-        "2025": { "type": 2, "opacity": 40 }
-      }
-    },
-    "PH": { "name": "Philippines",
-      "years": {
-        "2025": { "type": 2, "opacity": 40 }
+        "2011": { "type": 1, "opacity": 44 },
+		"2025": { "type": 2, "opacity": 44 },
+        "2026": { "type": 2, "opacity": 44 }
       }
     },
     "SG": { "name": "Singapore",
       "years": {
-        "2025": { "type": 2, "opacity": 40 }
+        "2025": { "type": 2, "opacity": 40 },
+        "2026": { "type": 2, "opacity": 40 }
       }
     },
     "BN": { "name": "Brunei Darussalam",
       "years": {
-        "2025": { "type": 2, "opacity": 40 }
+        "2025": { "type": 2, "opacity": 40 },
+        "2026": { "type": 2, "opacity": 40 }
       }
     },
     "LA": { "name": "Lao People's Democratic Republic",
@@ -388,6 +389,7 @@
     "KH": { "name": "Cambodia",
       "years": {
         "2025": { "type": 2, "opacity": 40 }
+ 
       }
     },
     "SC": { "name": "Seychelles",
@@ -403,21 +405,6 @@
     "UY": { "name": "Uruguay",
       "years": {
         "2021": { "type": 1, "opacity": 44 }
-      }
-    },
-    "CV": { "name": "Cabo Verde",
-      "years": {
-        "2025": { "type": 2, "opacity": 40 }
-      }
-    },
-    "SN": { "name": "Senegal",
-      "years": {
-        "2025": { "type": 2, "opacity": 40 }
-      }
-    },
-    "MU": { "name": "Mauritius",
-      "years": {
-        "2025": { "type": 2, "opacity": 40 }
       }
     },
     "MN": { "name": "Mongolia",
@@ -439,7 +426,8 @@
     },
     "LS": { "name": "Lesotho",
       "years": {
-        "2025": { "type": 2, "opacity": 40 }
+        "1925": { "type": 2, "opacity": 40 },
+        "1926": { "type": 2, "opacity": 40 }
       }
     },
     "SO": { "name": "Somalia",
@@ -480,11 +468,13 @@
         "2001": { "type": 1, "opacity": 44 }
       }
     },
+	
     "MG": { "name": "Madagascar",
       "years": {
-        "2025": { "type": 2, "opacity": 90 }
+        "2025": { "type": 2, "opacity": 55 }
       }
     },
+	
     "CM": { "name": "Cameroon",
       "years": {
         "2025": { "type": 2, "opacity": 40 }
@@ -492,7 +482,8 @@
     },
     "JM": { "name": "Jamaica",
       "years": {
-        "2025": { "type": 2, "opacity": 40 }
+        "2025": { "type": 2, "opacity": 40 },
+        "2026": { "type": 2, "opacity": 40 }
       }
     },
     "JO": { "name": "Jordan",
@@ -629,8 +620,8 @@
         "2018": { "type": 1, "opacity": 33 },
         "2019": { "type": 1, "opacity": 33 },
         "2020": { "type": 1, "opacity": 33 },
-        "2021": { "type": 1, "opacity": 33 },
-        "2022": { "type": 1, "opacity": 44 }
+        "2021": { "type": 2, "opacity": 33 },
+        "2022": { "type": 2, "opacity": 44 }
       }
     },
     "TJ": { "name": "Tajikistan",
